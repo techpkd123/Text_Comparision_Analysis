@@ -1,6 +1,6 @@
 # Text_Comparision_Analysis
 
-### I have created two text files where I have pasted the textual content from two blogs related to placement experience of two students in different fields.One in MBA and another in Software Engineering and compare the similarities in their experience using NLP and text analytics.
+### I have created two text files(blog1.txt and blog2.txt) where I have pasted the textual content from two blogs related to placement experience of two students in different fields.One in MBA and another in Software Engineering and compare the similarities in their experience using NLP and text analytics.
 
 # Final Result we get:-
 
